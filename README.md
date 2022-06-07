@@ -7,6 +7,7 @@ $ tree /home/admin/logs/php/seaslog/xiaokr/
 
 ### 苹果超级签-原理
 - [iOS超级签名-基本流程](https://www.yuque.com/togettoyou/cjqm/rbk50t)
+- ![image](https://user-images.githubusercontent.com/19405301/172328856-66f5b826-79f3-4e03-a976-186e1588bfab.png)
 - [火速文档-小氪后台-02-添加账号列表](https://doc.huosdk.com/web/#/p/268b9640f0179a85ff32e99593d32bf0)
 - [iOS证书签名原理分析，签名过程，重签名原理](https://www.jianshu.com/p/7ce397c2717d)
 - [使用openssl向苹果申请证书](https://www.jianshu.com/p/0c0b457cde92)
